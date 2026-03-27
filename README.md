@@ -17,7 +17,6 @@ I am a BTech CSE Student in VIT Bhopal. I will complete my B.Tech in 2029. I am 
                   </p>
                   
 
-             ### Socials
 <p align="left">
   <a href="https://www.github.com/iamanupambharti" target="_blank" rel="noreferrer">
     <picture>
@@ -44,7 +43,7 @@ I am a BTech CSE Student in VIT Bhopal. I will complete my B.Tech in 2029. I am 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iamanupambharti"><img src="https://github-readme-stats.vercel.app/api?username=iamanupambharti&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamanupambharti's GitHub stats" /></a>
+<a href="http://www.github.com/iamanupambharti"><img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub stats" /></a>
 
 <a href="http://www.github.com/iamanupambharti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamanupambharti&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
