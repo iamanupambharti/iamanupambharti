@@ -41,3 +41,11 @@ I am a BTech CSE Student in VIT Bhopal. I will complete my B.Tech in 2029. I am 
     </picture>
   </a>
 </p>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/iamanupambharti"><img src="https://github-readme-stats.vercel.app/api?username=iamanupambharti&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamanupambharti's GitHub stats" /></a>
+
+<a href="http://www.github.com/iamanupambharti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamanupambharti&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/iamanupambharti" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamanupambharti&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
