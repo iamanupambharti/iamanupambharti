@@ -7,7 +7,7 @@ Front-End Developer
 I am a BTech CSE Student in VIT Bhopal. I will complete my B.Tech in 2029. I am currently developing myself as a front-end developer.
 
 *   🌍  I'm based in Bhopal ,IN
-*   🖥️  See my portfolio at [Anupam Bharti](http://www.iamanupambharti.vercel.app)
+*   🖥️  See my portfolio at [Anupam Bharti](http://iamanupambharti.vercel.app)
 *   ✉️  You can contact me at [iamanupambharti@gmail.com](mailto:iamanupambharti@gmail.com)
 *   🧠  I'm currently learning a new framework
 *   👥  I'm looking to collaborate on hackathons, startups and interesting products.
