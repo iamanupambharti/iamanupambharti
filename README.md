@@ -41,5 +41,5 @@ I am a BTech CSE Student in VIT Bhopal. I will complete my B.Tech in 2029. I am 
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamanupambharti&label=Profile%20Views&color=red&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iamanupambharti&label=Profile%20Views&color=red&style=for-the-badge" alt="👀" />
 </p>
